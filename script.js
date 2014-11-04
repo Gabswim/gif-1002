@@ -42,72 +42,72 @@ function InstantSearchController($scope){
 	$scope.items = [
 		{
 			url: 'img/74HC00.jpg',
-			title: '74HC00',
+			title: '74HC00 Non et 2',
 			image: 'img/74HC00.jpg'
 		},
 		{
 			url: 'img/74HC02.jpg',
-			title: '74HC02',
+			title: '74HC02 Non ou 2',
 			image: 'img/74HC02.jpg'
 		},
 		{
 			url: 'img/74HC04.jpg',
-			title: '74HC04',
+			title: '74HC04 Inverseur',
 			image: 'img/74HC04.jpg'
 		},
 		{
 			url: 'img/74HC08.jpg',
-			title: '74HC08',
+			title: '74HC08 Et 2',
 			image: 'img/74HC08.jpg'
 		},
 		{
 			url: 'img/74HC10.jpg',
-			title: '74HC10',
+			title: '74HC10 Non et 3',
 			image: 'img/74HC10.jpg'
 		},
 		{
 			url: 'img/74HC20.jpg',
-			title: '74HC20',
+			title: '74HC20 Non et 4',
 			image: 'img/74HC20.jpg'
 		},
 		{
 			url: 'img/74HC32.jpg',
-			title: '74HC32',
+			title: '74HC32 ou 2',
 			image: 'img/74HC32.jpg'
 		},
         {
 			url: 'img/74HC74.jpg',
-			title: '74HC74',
+			title: '74HC74 Flip-flop D',
 			image: 'img/74HC74.jpg'
 		},
         {
 			url: 'img/74HC86.jpg',
-			title: '74HC86',
+			title: '74HC86 Ou exclusif 2',
 			image: 'img/74HC86.jpg'
 		},
         {
 			url: 'img/74HC112.jpg',
-			title: '74HC112',
+			title: '74HC112 Flip-flop JK',
 			image: 'img/74HC112.jpg'
 		},
         {
 			url: 'img/74HC151.jpg',
-			title: '74HC151',
+			title: '74HC151 Multiplexeur 8-3',
 			image: 'img/74HC151.jpg'
 		},
         {
 			url: 'img/74HC164.jpg',
-			title: '74HC164',
+			title: '74HC164 Registre à décalage',
 			image: 'img/74HC164.jpg'
 		},
         {
 			url: 'img/74HC191.jpg',
-			title: '74HC191',
+			title: '74HC191 Compteur binaire CB4CLED',
 			image: 'img/74HC191.jpg'
 		},
         {
 			url: 'img/74HC238.jpg',
-			title: '74HC238',
+			title: '74HC238 Démultiplexeur 3-8',
 			image: 'img/74HC238.jpg'
 		},
 	];
