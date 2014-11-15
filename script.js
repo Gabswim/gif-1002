@@ -86,6 +86,11 @@ function InstantSearchController($scope){
 			image: 'img/74HC86.jpg'
 		},
         {
+			url: 'img/74HC109.jpg',
+			title: '74HC109 Flip-flop JK',
+			image: 'img/74HC109.jpg'
+		},
+        {
 			url: 'img/74HC112.jpg',
 			title: '74HC112 Flip-flop JK',
 			image: 'img/74HC112.jpg'
